@@ -42,4 +42,22 @@ https://bit.ly/SHSSA0521
            : 소프트웨어 라이선스 관리 도구 : 사용량 추적, 모니터링
            : 라이센스 약정을 위배하지 않도록 비용 관리
    
-   
+3. 이관 서비스
+   . AWS Migration Hub
+           : 이전 과정 추적 - 기존 리소스 인벤토리 정보, 이전 진행 상태, 문제 파악 도움
+   . AWS Application Migration Service
+           : 이전 Server Migration Service 대체
+           : 애플리케이션 이전을 위한 검증 및 전환도구
+   . AWS Database Migration Service
+           : 기존 DB 데이터를 클라우드 이관
+   . AWS Application Discovery Service
+           : 온프레미스에서 실행되는 어플리케이션 확인
+
+
+4. 오토스케일링(Auto Scaling)은 클라우드의 유연성을 돋보이게 하는 핵심기술로 CPU, 메모리, 디스크, 네트워크 트래픽과 같은 시스템 자원들의 메트릭(Metric) 값을 모니터링하여 서버 사이즈를 자동으로 조절 하는 서비스를 말한다.
+   . Elastic Load Balancing : 아마존 웹서비스에서 제공하는 로드밸런스
+
+5. 컨테이너
+   . 가상화 방식의 무겁고 느린 애플리케이션 서비스를 해결하기 위한 프로세스 격리 방안
+   . 
+ 
